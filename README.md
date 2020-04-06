@@ -18,4 +18,6 @@
 
 O que estou achando do curso ?
 
+Curso no geral muito bom. Esse de Git tive algumas dificuldades, mesmo sendo básico...
+
 Muito interessante!
